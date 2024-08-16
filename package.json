@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.15.3",
+    "discordjs-logger": "^4.0.1",
+    "mongoose": "^8.4.4"
+  }
+}
